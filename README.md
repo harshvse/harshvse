@@ -1,7 +1,7 @@
 ### Hi there, Harsh Here - aka [RoastingWizard][website] 
 
 [![Website](https://img.shields.io/badge/Harami%20Hackers-Under%20Work-blue)](https://haramihackers.ga)
-[![Twitter Follow](https://img.shields.io/twitter/follow/roastingwizard?color=Blue&label=Roastingwizard&logo=Twitter&style=plastic)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/roastingwizard?color=Blue&label=Roastingwizard&logo=Twitter&style=plastic)](https://twitter.com/RoastingWizard)
 ## I'm a Gamer, Hacker, Developer, And Student!
 
 - 🔭 I’m currently working on My own Forum [website]!
