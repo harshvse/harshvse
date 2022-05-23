@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently solidifying my CS basics 🤣
 - 👯 I’m looking forward to get my hands on competitive programming and CTFs.
-- 🥅 2021 Goals: Get a good grasp of DSA.
+- 🥅 2022 Goals: Get a good grasp of DSA.
 - ⚡ Fun fact: I love to Edit videos and Play League of Legends.
 
